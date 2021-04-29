@@ -45,4 +45,4 @@ infrastructure:
             unhealthy-threshold: 2
             
 debugging:
-  connection_protocol: RDP, SSH
+  connection_protocol: SSH
